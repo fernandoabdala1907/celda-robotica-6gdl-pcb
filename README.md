@@ -3,7 +3,7 @@
 **Proyecto Final — Maestría en Automatización y Robótica (Universidad Tecmilenio)**  
 * **Autor:** Fernando Abdalá Gómez  
 * **Docente:** Ingrith Yuritsa Páez Pidiache  
-* **Demostración en video:** 
+* **Demostración en video:** https://youtu.be/MoI7Jq5fUXg
 
 ## Estructura del Código Fuente
 * `/Firmware_Control`: Código en C++ para control determinista de movimiento (Teensy) y periféricos de celda (Arduino Mega 2560).
